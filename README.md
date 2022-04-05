@@ -6,6 +6,12 @@
 
 Having been given the code for a text-editor, I created the ability to use this application as a PWA. Through using webpack and its workbox plugins with css and html loaders, I can create a bundled version of the text-editor to be downloaded as a PWA. Babel let's the app use ES6 syntax on older ES5 browsers. With the use of IDB we also have persisting data whether we decide to run the app, online or offline and though the browser or on the PWA.
 
+Browser:
+![Browser](Assets/browser.png)
+
+PWA:
+![PWA](Assets/pwa.png)
+
 # Table of Contents
 
 * [Links](#links)
